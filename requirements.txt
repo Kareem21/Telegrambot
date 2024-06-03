@@ -2,3 +2,5 @@ telebot
 requests
 stability-sdk
 pydub
+python-dotenv
+
