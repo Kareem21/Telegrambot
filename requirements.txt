@@ -1,0 +1,4 @@
+telebot
+requests
+stability-sdk
+pydub
